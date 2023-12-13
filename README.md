@@ -12,11 +12,11 @@ Make sure you have Flutter installed on your machine. If not, follow the [offici
 
 Clone the repository:
 
-##Usage
+###Usage
 Open the app on your device.
 Tap the "Pick Image" button to launch the camera and capture an image.
 The captured image will be displayed in the app.
 Tap the "Save Image" button to save the image locally. The saved image path will be printed in the console.
-##by
+###by
 Hamzaoui Thameur
 Omari Hamza
