@@ -1,16 +1,22 @@
-# imagesave
+# Image Picker and Local Save Example
 
-A new Flutter project.
+This Flutter app demonstrates how to use the camera to capture an image, display it in the app, and save it locally. The example utilizes the `image_picker` package to capture images and the `path_provider` package to save them locally.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter installed on your machine. If not, follow the [official installation guide](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository:
+
+##Usage
+Open the app on your device.
+Tap the "Pick Image" button to launch the camera and capture an image.
+The captured image will be displayed in the app.
+Tap the "Save Image" button to save the image locally. The saved image path will be printed in the console.
+##by
+Hamzaoui Thameur
+Omari Hamza
